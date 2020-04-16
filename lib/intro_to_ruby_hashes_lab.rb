@@ -8,7 +8,6 @@ end
 
 def pioneer
   pioneer = Hash.new
-#  pioneer = {}
   pioneer[:name] = "Grace Hopper"
   pioneer
 end
