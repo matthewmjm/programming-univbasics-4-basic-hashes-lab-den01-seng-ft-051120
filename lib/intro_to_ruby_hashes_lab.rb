@@ -14,7 +14,7 @@ end
 
 
 def id_hash_generator(number)
-  pioneer = Hash.new
-  pioneer[:name] = "Grace Hopper"
-  pioneer
+  hash3 = Hash.new
+  hash3[:id] = number
+  hash3
 end
